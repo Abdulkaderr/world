@@ -1,0 +1,43 @@
+
+body{background-attachment: fixed;background-color: rgba(53, 52, 51, 0.768);}
+table, th, td {background-color: #d48484;
+    border: 1px solid;
+  }
+  .border{
+    border-radius: 2cm;
+   
+
+  }
+  .hh1{color: rgb(22, 22, 22);
+   
+   margin-left: 500px;
+   margin-top: 10px;
+    text-align: center;
+    width: 500px;
+    height: 500px;  
+    padding: 10px;
+    border: 1px solid red;
+    background-color: #efaeae77;
+  }
+  .padd{padding-right: 30px;
+  padding-block: 80px;}
+  table {
+    width: 70%;
+  }
+  
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding:30px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ 
+  }
+  .button2 {background-color: #008CBA;} 
+.button3 {background-color: #f44336;} 
+.button4 {background-color: #e7e7e7; color: black;} 
